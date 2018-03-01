@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+
+   <tocitem text="Intro to Nova" target="nova.intro"/>
+
+   <tocitem text="IRC Commands" target="irc.commands">
+       <tocitem text="Away" target="command.away"/>
+       <tocitem text="Invite" target="command.invite"/>
+       <tocitem text="Join" target="command.join"/>
+       <tocitem text="Kick" target="command.kick"/>
+       <tocitem text="List" target="command.list"/>
+   </tocitem>
+
+</toc>

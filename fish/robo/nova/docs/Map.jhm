@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="nova.intro" url="intro.html" />
+	<mapID target="irc.commands" url="commands.html" />
+	<mapID target="command.away" url="away.html" />
+	<mapID target="command.list" url="list.html" />
+	<mapID target="command.invite" url="invite.html" />
+	<mapID target="command.kick" url="kick.html" />
+	<mapID target="command.join" url="join.html" />
+</map>
