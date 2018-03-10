@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/fish/robo/nova/images/nova_logo.png" alt="logo" style="height:120px">
 
-<img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/screenshot2.gif" alt="screenshot 1" style="height:200px">
+<img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/screenshot1.gif" alt="screenshot 1" style="height:200px">
 
 <img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/screenshot2.gif" alt="screenshot 2" style="height:200px">
 
