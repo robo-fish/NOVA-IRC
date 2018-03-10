@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/fish/robo/nova/images/nova_logo.png" alt="logo" style="height:120px">
 
-<img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/screenshot1.png" alt="screenshot 1" style="height:200px">
+<img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/screenshot2.gif" alt="screenshot 1" style="height:200px">
 
-<img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/screenshot2.png" alt="screenshot 2" style="height:200px">
+<img src="https://raw.githubusercontent.com/robo-fish/Nova-IRC/master/screenshot2.gif" alt="screenshot 2" style="height:200px">
 
 Nova is an [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) client that I worked on mostly during 1999 when I was a graduate student at Chalmers in Sweden. Nova is implemented in Java. The code in this repository is based on the last version, "1.5J2 alpha", which I uploaded to SourceForge in early 2000. The suffix "J2" refers to the use of the Java 2 SDK, which was new at the time. Java 2 JDK was the first Java development kit where the *Swing* GUI toolkit was included. In Java 2 there was no support for generics, however. One of the new changes I made to the old code was to add the missing types specializations to the collection class instances. All in all, I am very surprised how little work was needed to make Nova's old source code build with JDK 9 and fix all warnings. Well done, Java API overlords!
 
